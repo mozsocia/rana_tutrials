@@ -1,0 +1,17 @@
+{
+  "name": "todo-crud-api",
+  "version": "1.0.0",
+  "description": "A simple Todo CRUD API using Express.js and Mongoose",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongoose": "^8.6.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
